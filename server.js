@@ -21,6 +21,6 @@ app.use(bodyParser.json());
 app.use(routes);
 
 app.listen(4000, () => {
-      console.log("Server is running on port 3000");
+      console.log("Server is running on port 4000");
     });
     // https://code.pieces.app/blog/role-based-access-systems-in-nodejs
